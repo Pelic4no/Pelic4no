@@ -1,6 +1,6 @@
 # Olá, eu sou o André 👋
 
-Estudante de **Ciência da Computação na UTFPR** (Ponta Grossa, PR), com interesse em Inteligência Artificial e desenvolvimento de software. Em busca do meu primeiro estágio em tecnologia.
+Estudante de **Ciência da Computação na UTFPR** (Ponta Grossa, PR), com interesse em Inteligência Artificial e desenvolvimento de software.
 
 ### 🔧 Tecnologias
 `C` · `Python` · `Java` · `SQL (MySQL/MariaDB)` · `JavaScript` · `C#` · `HTML/CSS`
